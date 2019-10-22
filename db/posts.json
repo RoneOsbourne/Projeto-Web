@@ -1,1 +1,38 @@
-[{"id":1,"title":"Lei de Moore","image":"/images/post1.jpeg","description":"Nos últimos 50 anos, uma previsão de Gordon Moore, um dos fundadores da empresa de tecnologia Intel, dedicada à fabricação de microprocessadores para computadores, está se cumprindo.","body":"Em 1965, o engenheiro disse que, a cada 18 meses, os microprocessadores se tornariam duas vezes mais rápidos, usando metade da energia e teriam metade do tamanho atual. Pouco depois, ele ajustou o cálculo dizendo que levaria 24 meses e não 18. Foi assim que nasceu a chamada 'Lei de Moore'. O empreendedor chegou a essa hipótese empiricamente, confirmada com a passagem do tempo. Além de afirmar que a capacidade de processamento por computadores aumentaria exponencialmente, Moore previu que, ao mesmo tempo, o custo de fabricação dos componentes envolvidos diminuiria."},{"id":2,"title":"Limites da Lei de Moore","image":"/images/post2.jpeg","description":"O que pode conter o aumento exponencial.","body":"A Lei de Moore acertou ao enxergar que os computadores funcionariam mais e mais rapidamente ao longo dos anos. No entanto, essa progressão tem um limite. Os transistores (componentes eletrônicos que fazem parte dos circuitos dos microprocessadores e amplificam os sinais elétricos) se tornaram menores com o passar do tempo, mas chegará um momento em que seu tamanho não poderá continuar diminuindo. Se forem pequenos demais, não poderão funcionar adequadamente. Os elétrons começariam a pular e a chegar a lugares onde não deveriam. Por outro lado, se são colocados muitos elétrons para que o computador funcione mais rápido, há o risco de que o chip queime. Os fabricantes de chips estão há muitos anos cientes destas dificuldades à vista. Tanto que tornou-se tão difícil e caro acompanhar o ritmo da Lei de Moore, que muitas empresas do ramo jogaram a toalha. Isso não significa, no entanto, que a batalha esteja perdida."},{"id":3,"title":"Além da Lei de Moore","image":"/images/post3.jpeg","description":"Como a Tecnologia esta levando os Chips ao Próximo Nível.","body":"Os grandes fabricantes de processadores para PCs não estão satisfeitos com a situação atual, e estão trabalhando furiosamente para resolver os problemas causados pela “lentidão” na Lei de Moore e o surgimento da “Power Wall”, um limite prático no consumo de energia dos chips, em um esforço para conseguir ganhos de desempenho cada vez maiores."}]
+[
+    {
+        "id": 1,
+        "title": "Lei de Moore",
+        "image": "/images/post1.jpeg",
+        "description": "Nos últimos 50 anos, uma previsão de Gordon Moore, um dos fundadores da empresa de tecnologia Intel, dedicada à fabricação de microprocessadores para computadores, está se cumprindo.",
+        "body": "Em 1965, o engenheiro disse que, a cada 18 meses, os microprocessadores se tornariam duas vezes mais rápidos, usando metade da energia e teriam metade do tamanho atual. Pouco depois, ele ajustou o cálculo dizendo que levaria 24 meses e não 18. Foi assim que nasceu a chamada 'Lei de Moore'. O empreendedor chegou a essa hipótese empiricamente, confirmada com a passagem do tempo. Além de afirmar que a capacidade de processamento por computadores aumentaria exponencialmente, Moore previu que, ao mesmo tempo, o custo de fabricação dos componentes envolvidos diminuiria."
+    },
+    {
+        "id": 2,
+        "title": "Limites da Lei de Moore",
+        "image": "/images/post2.jpeg",
+        "description": "O que pode conter o aumento exponencial.",
+        "body": "A Lei de Moore acertou ao enxergar que os computadores funcionariam mais e mais rapidamente ao longo dos anos. No entanto, essa progressão tem um limite. Os transistores (componentes eletrônicos que fazem parte dos circuitos dos microprocessadores e amplificam os sinais elétricos) se tornaram menores com o passar do tempo, mas chegará um momento em que seu tamanho não poderá continuar diminuindo. Se forem pequenos demais, não poderão funcionar adequadamente. Os elétrons começariam a pular e a chegar a lugares onde não deveriam. Por outro lado, se são colocados muitos elétrons para que o computador funcione mais rápido, há o risco de que o chip queime. Os fabricantes de chips estão há muitos anos cientes destas dificuldades à vista. Tanto que tornou-se tão difícil e caro acompanhar o ritmo da Lei de Moore, que muitas empresas do ramo jogaram a toalha. Isso não significa, no entanto, que a batalha esteja perdida."
+    },
+    {
+        "id": 3,
+        "title": "Além da Lei de Moore",
+        "image": "/images/post3.jpeg",
+        "description": "Como a Tecnologia esta levando os Chips ao Próximo Nível.",
+        "body": "Os grandes fabricantes de processadores para PCs não estão satisfeitos com a situação atual, e estão trabalhando furiosamente para resolver os problemas causados pela “lentidão” na Lei de Moore e o surgimento da “Power Wall”, um limite prático no consumo de energia dos chips, em um esforço para conseguir ganhos de desempenho cada vez maiores."
+    },
+    {
+        "id": 4,
+        "title": "teste",
+        "image": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/ff234cbc-9314-45f5-bd31-b8e4594549fb/da2k2zu-57b5b7c9-006c-4973-bfa3-4e5b79a3b69d.png/v1/fill/w_1024,h_624,q_80,strp/sub_zero_mkx_wallpaper_by_ladyannatar_da2k2zu-fullview.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9NjI0IiwicGF0aCI6IlwvZlwvZmYyMzRjYmMtOTMxNC00NWY1LWJkMzEtYjhlNDU5NDU0OWZiXC9kYTJrMnp1LTU3YjViN2M5LTAwNmMtNDk3My1iZmEzLTRlNWI3OWEzYjY5ZC5wbmciLCJ3aWR0aCI6Ijw9MTAyNCJ9XV0sImF1ZCI6WyJ1cm46c2VydmljZTppbWFnZS5vcGVyYXRpb25zIl19.tOvhnIjsAsG_4VNYuHujRf-vuZkF2jf4RMOIAAi-5xI",
+        "description": "teste1",
+        "body": "teste 2 posts com mesma imagem"
+    },
+    {
+        "id": 5,
+        "title": "teste",
+        "image": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/ff234cbc-9314-45f5-bd31-b8e4594549fb/da2k2zu-57b5b7c9-006c-4973-bfa3-4e5b79a3b69d.png/v1/fill/w_1024,h_624,q_80,strp/sub_zero_mkx_wallpaper_by_ladyannatar_da2k2zu-fullview.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9NjI0IiwicGF0aCI6IlwvZlwvZmYyMzRjYmMtOTMxNC00NWY1LWJkMzEtYjhlNDU5NDU0OWZiXC9kYTJrMnp1LTU3YjViN2M5LTAwNmMtNDk3My1iZmEzLTRlNWI3OWEzYjY5ZC5wbmciLCJ3aWR0aCI6Ijw9MTAyNCJ9XV0sImF1ZCI6WyJ1cm46c2VydmljZTppbWFnZS5vcGVyYXRpb25zIl19.tOvhnIjsAsG_4VNYuHujRf-vuZkF2jf4RMOIAAi-5xI",
+        "description": "teste2",
+        "body": "2 posts com mesma imagem"
+    }
+    
+]

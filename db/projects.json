@@ -1,1 +1,58 @@
-[{"id":1,"name":"A Via Quântica","image":"/images/project1.jpg","subject":"Via Quantica: propriedades quase mágicas das partículas subatômicas.","description":"Elétrons ou fótons, por exemplo, podem estar em dois estados ao mesmo tempo - um fenômeno chamado superposição. Como resultado, um computador de qubit pode fazer cálculos muito mais rapidamente que um computador convencional. Seria como se uma pessoa fosse capaz de percorrer cada um dos vários caminhos de um labirinto muito complexo ao mesmo tempo, como alguns cientistas preferem exemplificar a computação quântica. Os qubits também podem influenciar uns aos outros, mesmo quando não estão fisicamente conectados, um processo chamado 'entrelaçamento'. Em termos computacionais, isso lhes dá a capacidade de fazer saltos lógicos que os computadores convencionais jamais conseguiriam."},{"id":2,"name":"Processadores de Grafeno","image":"/images/project2.jpg","subject":"Grafeno: Descoberta do Século.","description":"Uma das grandes descobertas deste século é o Grafeno, composto por moléculas de carbono e 40 vezes mais resistente que o diamante. Este material é um forte candidato para substituir os chips de silício, porque é ótimo como condutor de eletricidade. As universidades americanas já fizeram experimentos em que transistores de grafeno trabalharam mil vezes mais rápido que os transistores de silício usados hoje. Tendo menos resistência elétrica, a velocidade dos processadores de grafeno pode ser aumentada na casa dos milhares e, mesmo assim, usar menos energia do que a tecnologia convencional."},{"id":3,"name":"Memristor","image":"/images/project3.jpg","subject":"Memristor: Novo componente eletrônico hipotético, concebido no início dos anos 70.","description":"A lógica da proposta? Esse componente gravaria o fluxo de corrente elétrica que circulou, e a resistência se adaptaria a essa memória. Se organizados da maneira correta, os memristors poderiam substituir os transistores. E como mais memristors podem ser inseridos em um chip do que os transistores, o computador trabalharia mais rápido e teria mais capacidade de armazenamento com eles."},{"id":4,"name":"Os Chips Vivos","image":"/images/project4.jpg","subject":"Computadores Vivos baseados nas sinapses humanas.","description":"O projeto Cérebro Humano, por exemplo, é financiado pela União Europeia e dedica-se à pesquisa de novos algoritmos que podem replicar o funcionamento do cérebro. Mas há alguns que vão ainda mais longe. É o caso da Koniku, a primeira empresa dedicada ao desenvolvimento de dispositivos eletrônicos usando neurônios de verdade. Como? Eles modificam o DNA dos neurônios para que tenham certas peculiaridades e que se mantenham vivos por dois anos em um chip. O objetivo da empresa é criar verdadeiros processadores biológicos que combinariam o poder matemático das máquinas às poderosas capacidades cognitivas do cérebro humano. Na prática, processadores do tipo poderiam ser usados por exemplo para detectar o cheiro de drogas ou explosivos."},{"id":5,"name":"A particula de Deus","image":"/images/project5.jpg","subject":"Homer Simpson e a Particula de Deus","description":"É verdade que Os Simpsons previram a existência da “Partícula da Deus” 14 anos antes dela ser descoberta pelos cientistas? A notícia apareceu na web no começo de março de 2015 e narra a incrível descoberta do escritor britânico Simon Singh a respeito de um episódio de Os Simpsons, de 1998. Em seu mais recente livro chamado “The Simpsons and their Mathematical Secrets”, Simon explica uma cena do episódio “The Wizard of Evergreen Terrace” – que foi ao ar no Estados Unidos em setembro de 1998 – em que o personagem Homer Simpson aparece escrevendo uma fórmula bastante complexa em um quadro negro e essa equação, por acaso, se assemelha muito à descoberta do bóson de Higgs, comprovada somente em 2013."},{"id":6,"name":"Ciborgues a Vista","image":"https://images.alphacoders.com/102/1021182.jpg","subject":"A interface cérebro-maquina mudando a forma como sentimos o mundo.","description":"Vários avanços foram feitos na última década no que se refere à interface cérebro-máquina, abrindo caminho para ajudar pessoas com deficiências, paralisias ou que sofreram amputações a recuperar os movimentos. Em 2009, Pierpaolo Petruzziello, italiano que vive no Brasil, conseguiu controlar um braço robótico usando a própria mente, com eletrodos conectados ao sistema nervoso. Ele foi o primeiro paciente a fazer movimentos complexos com as mãos, como pegar objetos, com o pensamento. Destacam-se, nessa área, estudo do brasileiro MIguel Nicolelis, que na última Copa do Mundo fez um paraplégico chutar uma bola com ajuda de um exoesqueleto."}]
+[
+    {
+        "id": 1,
+        "name": "A Via Quântica",
+        "image": "/images/project1.jpg",
+        "subject": "Via Quantica: propriedades quase mágicas das partículas subatômicas.",
+        "description": "Elétrons ou fótons, por exemplo, podem estar em dois estados ao mesmo tempo - um fenômeno chamado superposição. Como resultado, um computador de qubit pode fazer cálculos muito mais rapidamente que um computador convencional. Seria como se uma pessoa fosse capaz de percorrer cada um dos vários caminhos de um labirinto muito complexo ao mesmo tempo, como alguns cientistas preferem exemplificar a computação quântica. Os qubits também podem influenciar uns aos outros, mesmo quando não estão fisicamente conectados, um processo chamado 'entrelaçamento'. Em termos computacionais, isso lhes dá a capacidade de fazer saltos lógicos que os computadores convencionais jamais conseguiriam."
+    },
+    {
+        "id": 2,
+        "name": "Processadores de Grafeno",
+        "image": "/images/project2.jpg",
+        "subject": "Grafeno: Descoberta do Século.",
+        "description": "Uma das grandes descobertas deste século é o Grafeno, composto por moléculas de carbono e 40 vezes mais resistente que o diamante. Este material é um forte candidato para substituir os chips de silício, porque é ótimo como condutor de eletricidade. As universidades americanas já fizeram experimentos em que transistores de grafeno trabalharam mil vezes mais rápido que os transistores de silício usados hoje. Tendo menos resistência elétrica, a velocidade dos processadores de grafeno pode ser aumentada na casa dos milhares e, mesmo assim, usar menos energia do que a tecnologia convencional."
+    },
+    {
+        "id": 3,
+        "name": "Memristor",
+        "image": "/images/project3.jpg",
+        "subject": "Memristor: Novo componente eletrônico hipotético, concebido no início dos anos 70.",
+        "description": "A lógica da proposta? Esse componente gravaria o fluxo de corrente elétrica que circulou, e a resistência se adaptaria a essa memória. Se organizados da maneira correta, os memristors poderiam substituir os transistores. E como mais memristors podem ser inseridos em um chip do que os transistores, o computador trabalharia mais rápido e teria mais capacidade de armazenamento com eles."
+    },
+    {
+        "id": 4,
+        "name": "Os Chips Vivos",
+        "image": "/images/project4.jpg",
+        "subject": "Computadores Vivos baseados nas sinapses humanas.",
+        "description": "O projeto Cérebro Humano, por exemplo, é financiado pela União Europeia e dedica-se à pesquisa de novos algoritmos que podem replicar o funcionamento do cérebro. Mas há alguns que vão ainda mais longe. É o caso da Koniku, a primeira empresa dedicada ao desenvolvimento de dispositivos eletrônicos usando neurônios de verdade. Como? Eles modificam o DNA dos neurônios para que tenham certas peculiaridades e que se mantenham vivos por dois anos em um chip. O objetivo da empresa é criar verdadeiros processadores biológicos que combinariam o poder matemático das máquinas às poderosas capacidades cognitivas do cérebro humano. Na prática, processadores do tipo poderiam ser usados por exemplo para detectar o cheiro de drogas ou explosivos."
+    },
+    {
+        "id": 5,
+        "name": "A particula de Deus",
+        "image": "/images/project5.jpg",
+        "subject": "Homer Simpson e a Particula de Deus",
+        "description": "É verdade que Os Simpsons previram a existência da “Partícula da Deus” 14 anos antes dela ser descoberta pelos cientistas? A notícia apareceu na web no começo de março de 2015 e narra a incrível descoberta do escritor britânico Simon Singh a respeito de um episódio de Os Simpsons, de 1998. Em seu mais recente livro chamado “The Simpsons and their Mathematical Secrets”, Simon explica uma cena do episódio “The Wizard of Evergreen Terrace” – que foi ao ar no Estados Unidos em setembro de 1998 – em que o personagem Homer Simpson aparece escrevendo uma fórmula bastante complexa em um quadro negro e essa equação, por acaso, se assemelha muito à descoberta do bóson de Higgs, comprovada somente em 2013."
+    },
+    {
+        "id": 6,
+        "name": "Ciborgues a Vista",
+        "image": "https://images.alphacoders.com/102/1021182.jpg",
+        "subject": "A interface cérebro-maquina mudando a forma como sentimos o mundo.",
+        "description": "Vários avanços foram feitos na última década no que se refere à interface cérebro-máquina, abrindo caminho para ajudar pessoas com deficiências, paralisias ou que sofreram amputações a recuperar os movimentos. Em 2009, Pierpaolo Petruzziello, italiano que vive no Brasil, conseguiu controlar um braço robótico usando a própria mente, com eletrodos conectados ao sistema nervoso. Ele foi o primeiro paciente a fazer movimentos complexos com as mãos, como pegar objetos, com o pensamento. Destacam-se, nessa área, estudo do brasileiro MIguel Nicolelis, que na última Copa do Mundo fez um paraplégico chutar uma bola com ajuda de um exoesqueleto."
+    },
+    {
+        "id": 7,
+        "name": "teste",
+        "image": "https://wallpaperaccess.com/full/697607.jpg",
+        "subject": "teste1",
+        "description": "teste 2 projetos mesma imagem"
+    },
+    {
+        "id": 8,
+        "name": "teste",
+        "image": "https://wallpaperaccess.com/full/697607.jpg",
+        "subject": "teste2",
+        "description": "teste 2 projetos, mesma imagem ..."
+    }
+]
