@@ -17,3 +17,4 @@ CMD:
  - git remote -v (verifica links do repositorio remoto. Fetch: busca atualizações. Push: envia)
  - git push -u origin master (Envia as alterações)
  - Se der erro (Ex: referencias de arquivos do git com local), colocar ""--force"
+ - git remote rm origin (retira vinculo do projeto com o repositorio, para informar novo repo para enviar)
