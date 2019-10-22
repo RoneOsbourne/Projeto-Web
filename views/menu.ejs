@@ -1,0 +1,33 @@
+<title><%= title %></title>
+<%- include('imports'); -%>
+<%- include('navbar'); -%>
+
+<div class="container">
+    <br>
+    <br>
+    <br>
+
+    <script>
+      function verificaHora(){
+
+        $.get("http://worldtimeapi.org/api/ip", function( data ) {
+            console.log(data);
+            $("#led").text(data.datetime.substr(11, 8));
+        });
+
+      }
+
+      setInterval(verificaHora, 1000);
+      </script>
+    
+
+    <main role="main" class="inner cover" style="margin-bottom: 40%">
+        <h1 class="cover-heading">Seja Bem vindo ao Meu Site!</h1>
+        <p class="lead">Página Web de Postagens e Projetos.</p>
+        <p class="lead" id="led"></p>
+        <img src="images/bemvindo.png" style="float: right">
+      </main>
+    
+  </div>
+
+    <%- include('footer'); -%>

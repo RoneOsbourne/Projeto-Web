@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title><%= project.title %></title>
+    <%- include('imports'); -%>
+  </head>
+  <body>
+    <%- include('navbar'); -%>
+
+    <div class="container" style="margin-top: 10%; margin-bottom: 10%">
+      <div class="row">
+  
+        <h1 style="margin-bottom: 10%; margin-left: 0%"><%= project.name %></h1>
+
+      </div>
+
+        <p class="lead"><%= project.subject %></p>
+        <hr>
+        <p class="lead"><%= project.description %></p>
+
+    </div>
+
+  </body>
+
+  <%- include('footer'); -%>
+
+</html>
+

@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Posts</title>
+  <%- include('../../imports'); -%>
+</head>
+<body>
+  <%- include('../../navbar'); -%>
+  <div class="container" style="margin-top: 5%">
+    <div class="row" style="margin-bottom: 3%">
+        <h1 class="display-4">Administração de Projetos</h1>
+    </div>
+
+    <div class="row mb-2">
+        <a href="/admin/projects/create" class="btn btn-success">Novo Projeto</a>
+    </div>
+
+    <div class="row">
+        <table class="table">
+            <thead class="thead-dark">
+              <tr>
+                <th scope="col">Código</th>
+                <th scope="col">Título</th>
+              </tr>
+            </thead>
+            <tbody>
+              <% projects.forEach((project) => { %>
+                <tr>
+                  <td><%= project.id %></td>
+                  <td><%= project.name %></td>
+                </tr>
+              <% }); %>
+              
+            </tbody>
+          </table>
+    </div>
+  </div>
+</body>
+</html>
