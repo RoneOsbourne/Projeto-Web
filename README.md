@@ -18,3 +18,6 @@ CMD:
  - git push -u origin master (Envia as alterações)
  - Se der erro (Ex: referencias de arquivos do git com local), colocar ""--force"
  - git remote rm origin (retira vinculo do projeto com o repositorio, para informar novo repo para enviar)
+
+ -> Caso seja feito Download ou clonagem do projeto_web, adicionar diretório "node_modules" para rodar.
+ Este diretório não é uppado no push e github não permite add diretório com mais de 100 arquivos.
